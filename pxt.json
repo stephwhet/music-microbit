@@ -1,5 +1,5 @@
 {
-    "name": "music microbit",
+    "name": "microbit music",
     "description": "",
     "dependencies": {
         "core": "*",
